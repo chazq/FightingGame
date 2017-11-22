@@ -1,1 +1,1 @@
-# FightingGame
+# Side Scrolling Game

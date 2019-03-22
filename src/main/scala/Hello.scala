@@ -1,8 +1,8 @@
 /**
   * Created by charlie on 22/11/17.
   */
-object Hello extends App {
+object Hello extends App with GraphicsExample {
 
-  println("hello prick")
+  GUIInitialiser
 
 }
